@@ -3,6 +3,3 @@ function myFunction() {
   console.log(y);
 }
 
-function doTo5(anything) {
-  return anything(5)
-}
